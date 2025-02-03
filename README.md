@@ -4,12 +4,11 @@ A comprehensive console application for booking hotels and flights, built with C
 
 ## Features
 
-- **User Management**: Sign up, sign in, and manage user profiles.
-- **Hotel Booking**: Search, filter, and book hotels with various amenities.
-- **Flight Booking**: Book one-way or round-trip flights with seat class options.
-- **Payment Processing**: Secure payment simulation with card validation.
-- **Admin Dashboard**: Add/remove hotels, view users, and generate revenue reports.
-- **Data Persistence**: Hotels and flights data stored in `.txt` files.
+- **Hotel Search & Booking**: Users can search for hotels based on location, check-in/check-out dates, and pricing.
+- **Flight Search & Booking**: Enables searching and booking flights with filtering options such as departure time, price, and airline.
+- **Booking & Payment Processing**: Integration with secure payment gateways for seamless transactions.
+- **Reviews & Ratings**: Allows users to leave reviews and ratings for hotels, flights, and car rentals.
+- **Admin Panel**: A dashboard for administrators to manage bookings, users, and service providers.
 
 ## Technologies Used
 
