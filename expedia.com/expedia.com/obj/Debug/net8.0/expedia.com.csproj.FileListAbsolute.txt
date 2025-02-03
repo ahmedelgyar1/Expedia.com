@@ -1,0 +1,14 @@
+C:\Users\T-BOX\source\repos\expedia.com\expedia.com\obj\Debug\net8.0\expedia.com.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-BOX\source\repos\expedia.com\expedia.com\obj\Debug\net8.0\expedia.com.AssemblyInfoInputs.cache
+C:\Users\T-BOX\source\repos\expedia.com\expedia.com\obj\Debug\net8.0\expedia.com.AssemblyInfo.cs
+C:\Users\T-BOX\source\repos\expedia.com\expedia.com\obj\Debug\net8.0\expedia.com.csproj.CoreCompileInputs.cache
+C:\Users\T-BOX\source\repos\expedia.com\expedia.com\bin\Debug\net8.0\expedia.com.exe
+C:\Users\T-BOX\source\repos\expedia.com\expedia.com\bin\Debug\net8.0\expedia.com.deps.json
+C:\Users\T-BOX\source\repos\expedia.com\expedia.com\bin\Debug\net8.0\expedia.com.runtimeconfig.json
+C:\Users\T-BOX\source\repos\expedia.com\expedia.com\bin\Debug\net8.0\expedia.com.dll
+C:\Users\T-BOX\source\repos\expedia.com\expedia.com\bin\Debug\net8.0\expedia.com.pdb
+C:\Users\T-BOX\source\repos\expedia.com\expedia.com\obj\Debug\net8.0\expedia.com.dll
+C:\Users\T-BOX\source\repos\expedia.com\expedia.com\obj\Debug\net8.0\refint\expedia.com.dll
+C:\Users\T-BOX\source\repos\expedia.com\expedia.com\obj\Debug\net8.0\expedia.com.pdb
+C:\Users\T-BOX\source\repos\expedia.com\expedia.com\obj\Debug\net8.0\expedia.com.genruntimeconfig.cache
+C:\Users\T-BOX\source\repos\expedia.com\expedia.com\obj\Debug\net8.0\ref\expedia.com.dll

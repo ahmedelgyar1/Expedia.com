@@ -1,0 +1,100 @@
+HotelName :Grand Hotel 1,Country:Egypt,City:Cairo,AvailableRooms:10,PricePerRoom:100,Rating:4.5,Amenities:WiFi|Pool|Gym,Rooms:Standard Room|WiFi&TV|100|false;Deluxe Room|WiFi&TV&Mini Bar|150|false
+HotelName :Sunset Resort 2,Country:Egypt,City:Alexandria,AvailableRooms:5,PricePerRoom:80,Rating:4.0,Amenities:WiFi|Breakfast,Rooms:Standard Room|WiFi&TV|80|false
+HotelName :Golden Palace 3,Country:Egypt,City:Luxor,AvailableRooms:8,PricePerRoom:120,Rating:4.7,Amenities:WiFi|Pool|Spa,Rooms:Standard Room|WiFi&TV|120|false;Deluxe Room|WiFi&TV&Mini Bar|180|false
+HotelName :Sea View 4,Country:Egypt,City:Aswan,AvailableRooms:12,PricePerRoom:90,Rating:4.2,Amenities:WiFi|Restaurant,Rooms:Standard Room|WiFi&TV|90|false
+HotelName :Mountain Lodge 5,Country:Egypt,City:Sharm El-Sheikh,AvailableRooms:15,PricePerRoom:150,Rating:4.8,Amenities:WiFi|Pool|Gym|Spa,Rooms:Standard Room|WiFi&TV|150|false;Deluxe Room|WiFi&TV&Mini Bar|200|false
+HotelName :Royal Palace 6,Country:Egypt,City:Cairo,AvailableRooms:20,PricePerRoom:200,Rating:4.9,Amenities:WiFi|Pool|Gym|Spa|Restaurant,Rooms:Standard Room|WiFi&TV|200|false;Deluxe Room|WiFi&TV&Mini Bar|250|false
+HotelName :Paradise Inn 7,Country:Egypt,City:Alexandria,AvailableRooms:7,PricePerRoom:70,Rating:3.8,Amenities:WiFi|Breakfast,Rooms:Standard Room|WiFi&TV|70|false
+HotelName :Oasis Retreat 8,Country:Egypt,City:Luxor,AvailableRooms:9,PricePerRoom:110,Rating:4.6,Amenities:WiFi|Pool|Spa,Rooms:Standard Room|WiFi&TV|110|false;Deluxe Room|WiFi&TV&Mini Bar|160|false
+HotelName :City Center 9,Country:Egypt,City:Aswan,AvailableRooms:11,PricePerRoom:85,Rating:4.1,Amenities:WiFi|Restaurant,Rooms:Standard Room|WiFi&TV|85|false
+HotelName :Luxury Haven 10,Country:Egypt,City:Sharm El-Sheikh,AvailableRooms:18,PricePerRoom:180,Rating:4.7,Amenities:WiFi|Pool|Gym|Spa,Rooms:Standard Room|WiFi&TV|180|false;Deluxe Room|WiFi&TV&Mini Bar|230|false
+HotelName :Sunrise Hotel 11,Country:Egypt,City:Cairo,AvailableRooms:14,PricePerRoom:130,Rating:4.4,Amenities:WiFi|Pool|Gym,Rooms:Standard Room|WiFi&TV|130|false;Deluxe Room|WiFi&TV&Mini Bar|180|false
+HotelName :Ocean View 12,Country:Egypt,City:Alexandria,AvailableRooms:6,PricePerRoom:90,Rating:4.3,Amenities:WiFi|Pool|Breakfast,Rooms:Standard Room|WiFi&TV|90|false
+HotelName :Desert Oasis 13,Country:Egypt,City:Luxor,AvailableRooms:10,PricePerRoom:100,Rating:4.5,Amenities:WiFi|Pool|Spa,Rooms:Standard Room|WiFi&TV|100|false;Deluxe Room|WiFi&TV&Mini Bar|150|false
+HotelName :Nile View 14,Country:Egypt,City:Aswan,AvailableRooms:13,PricePerRoom:95,Rating:4.2,Amenities:WiFi|Restaurant,Rooms:Standard Room|WiFi&TV|95|false
+HotelName :Red Sea Resort 15,Country:Egypt,City:Sharm El-Sheikh,AvailableRooms:16,PricePerRoom:160,Rating:4.8,Amenities:WiFi|Pool|Gym|Spa,Rooms:Standard Room|WiFi&TV|160|false;Deluxe Room|WiFi&TV&Mini Bar|210|false
+HotelName :Pyramid Inn 16,Country:Egypt,City:Cairo,AvailableRooms:12,PricePerRoom:120,Rating:4.6,Amenities:WiFi|Pool|Gym,Rooms:Standard Room|WiFi&TV|120|false;Deluxe Room|WiFi&TV&Mini Bar|170|false
+HotelName :Mediterranean Breeze 17,Country:Egypt,City:Alexandria,AvailableRooms:8,PricePerRoom:85,Rating:4.1,Amenities:WiFi|Pool|Breakfast,Rooms:Standard Room|WiFi&TV|85|false
+HotelName :Valley View 18,Country:Egypt,City:Luxor,AvailableRooms:9,PricePerRoom:110,Rating:4.7,Amenities:WiFi|Pool|Spa,Rooms:Standard Room|WiFi&TV|110|false;Deluxe Room|WiFi&TV&Mini Bar|160|false
+HotelName :Sunset Oasis 19,Country:Egypt,City:Aswan,AvailableRooms:11,PricePerRoom:95,Rating:4.3,Amenities:WiFi|Restaurant,Rooms:Standard Room|WiFi&TV|95|false
+HotelName :Golden Sands 20,Country:Egypt,City:Sharm El-Sheikh,AvailableRooms:17,PricePerRoom:170,Rating:4.9,Amenities:WiFi|Pool|Gym|Spa,Rooms:Standard Room|WiFi&TV|170|false;Deluxe Room|WiFi&TV&Mini Bar|220|false
+HotelName :Royal Garden 21,Country:Egypt,City:Cairo,AvailableRooms:15,PricePerRoom:140,Rating:4.5,Amenities:WiFi|Pool|Gym,Rooms:Standard Room|WiFi&TV|140|false;Deluxe Room|WiFi&TV&Mini Bar|190|false
+HotelName :Blue Lagoon 22,Country:Egypt,City:Alexandria,AvailableRooms:7,PricePerRoom:80,Rating:4.0,Amenities:WiFi|Pool|Breakfast,Rooms:Standard Room|WiFi&TV|80|false
+HotelName :Desert Mirage 23,Country:Egypt,City:Luxor,AvailableRooms:10,PricePerRoom:100,Rating:4.6,Amenities:WiFi|Pool|Spa,Rooms:Standard Room|WiFi&TV|100|false;Deluxe Room|WiFi&TV&Mini Bar|150|false
+HotelName :Nile Palace 24,Country:Egypt,City:Aswan,AvailableRooms:12,PricePerRoom:90,Rating:4.2,Amenities:WiFi|Restaurant,Rooms:Standard Room|WiFi&TV|90|false
+HotelName :Coral Reef 25,Country:Egypt,City:Sharm El-Sheikh,AvailableRooms:18,PricePerRoom:180,Rating:4.8,Amenities:WiFi|Pool|Gym|Spa,Rooms:Standard Room|WiFi&TV|180|false;Deluxe Room|WiFi&TV&Mini Bar|230|false
+HotelName :Pharaoh's Retreat 26,Country:Egypt,City:Cairo,AvailableRooms:14,PricePerRoom:130,Rating:4.4,Amenities:WiFi|Pool|Gym,Rooms:Standard Room|WiFi&TV|130|false;Deluxe Room|WiFi&TV&Mini Bar|180|false
+HotelName :Marina View 27,Country:Egypt,City:Alexandria,AvailableRooms:6,PricePerRoom:90,Rating:4.3,Amenities:WiFi|Pool|Breakfast,Rooms:Standard Room|WiFi&TV|90|false
+HotelName :Valley Oasis 28,Country:Egypt,City:Luxor,AvailableRooms:9,PricePerRoom:110,Rating:4.7,Amenities:WiFi|Pool|Spa,Rooms:Standard Room|WiFi&TV|110|false;Deluxe Room|WiFi&TV&Mini Bar|160|false
+HotelName :Sunset Mirage 29,Country:Egypt,City:Aswan,AvailableRooms:11,PricePerRoom:95,Rating:4.3,Amenities:WiFi|Restaurant,Rooms:Standard Room|WiFi&TV|95|false
+HotelName :Golden Reef 30,Country:Egypt,City:Sharm El-Sheikh,AvailableRooms:17,PricePerRoom:170,Rating:4.9,Amenities:WiFi|Pool|Gym|Spa,Rooms:Standard Room|WiFi&TV|170|false;Deluxe Room|WiFi&TV&Mini Bar|220|false
+HotelName :Royal Mirage 31,Country:Egypt,City:Cairo,AvailableRooms:15,PricePerRoom:140,Rating:4.5,Amenities:WiFi|Pool|Gym,Rooms:Standard Room|WiFi&TV|140|false;Deluxe Room|WiFi&TV&Mini Bar|190|false
+HotelName :Blue Oasis 32,Country:Egypt,City:Alexandria,AvailableRooms:7,PricePerRoom:80,Rating:4.0,Amenities:WiFi|Pool|Breakfast,Rooms:Standard Room|WiFi&TV|80|false
+HotelName :Desert Palace 33,Country:Egypt,City:Luxor,AvailableRooms:10,PricePerRoom:100,Rating:4.6,Amenities:WiFi|Pool|Spa,Rooms:Standard Room|WiFi&TV|100|false;Deluxe Room|WiFi&TV&Mini Bar|150|false
+HotelName :Nile Mirage 34,Country:Egypt,City:Aswan,AvailableRooms:12,PricePerRoom:90,Rating:4.2,Amenities:WiFi|Restaurant,Rooms:Standard Room|WiFi&TV|90|false
+HotelName :Coral Palace 35,Country:Egypt,City:Sharm El-Sheikh,AvailableRooms:18,PricePerRoom:180,Rating:4.8,Amenities:WiFi|Pool|Gym|Spa,Rooms:Standard Room|WiFi&TV|180|false;Deluxe Room|WiFi&TV&Mini Bar|230|false
+HotelName :Pharaoh's Oasis 36,Country:Egypt,City:Cairo,AvailableRooms:14,PricePerRoom:130,Rating:4.4,Amenities:WiFi|Pool|Gym,Rooms:Standard Room|WiFi&TV|130|false;Deluxe Room|WiFi&TV&Mini Bar|180|false
+HotelName :Marina Mirage 37,Country:Egypt,City:Alexandria,AvailableRooms:6,PricePerRoom:90,Rating:4.3,Amenities:WiFi|Pool|Breakfast,Rooms:Standard Room|WiFi&TV|90|false
+HotelName :Valley Mirage 38,Country:Egypt,City:Luxor,AvailableRooms:9,PricePerRoom:110,Rating:4.7,Amenities:WiFi|Pool|Spa,Rooms:Standard Room|WiFi&TV|110|false;Deluxe Room|WiFi&TV&Mini Bar|160|false
+HotelName :Sunset Palace 39,Country:Egypt,City:Aswan,AvailableRooms:11,PricePerRoom:95,Rating:4.3,Amenities:WiFi|Restaurant,Rooms:Standard Room|WiFi&TV|95|false
+HotelName :Golden Mirage 40,Country:Egypt,City:Sharm El-Sheikh,AvailableRooms:17,PricePerRoom:170,Rating:4.9,Amenities:WiFi|Pool|Gym|Spa,Rooms:Standard Room|WiFi&TV|170|false;Deluxe Room|WiFi&TV&Mini Bar|220|false
+HotelName :Royal Oasis 41,Country:Egypt,City:Cairo,AvailableRooms:15,PricePerRoom:140,Rating:4.5,Amenities:WiFi|Pool|Gym,Rooms:Standard Room|WiFi&TV|140|false;Deluxe Room|WiFi&TV&Mini Bar|190|false
+HotelName :Blue Mirage 42,Country:Egypt,City:Alexandria,AvailableRooms:7,PricePerRoom:80,Rating:4.0,Amenities:WiFi|Pool|Breakfast,Rooms:Standard Room|WiFi&TV|80|false
+HotelName :Desert Mirage 43,Country:Egypt,City:Luxor,AvailableRooms:10,PricePerRoom:100,Rating:4.6,Amenities:WiFi|Pool|Spa,Rooms:Standard Room|WiFi&TV|100|false;Deluxe Room|WiFi&TV&Mini Bar|150|false
+HotelName :Nile Oasis 44,Country:Egypt,City:Aswan,AvailableRooms:12,PricePerRoom:90,Rating:4.2,Amenities:WiFi|Restaurant,Rooms:Standard Room|WiFi&TV|90|false
+HotelName :Coral Mirage 45,Country:Egypt,City:Sharm El-Sheikh,AvailableRooms:18,PricePerRoom:180,Rating:4.8,Amenities:WiFi|Pool|Gym|Spa,Rooms:Standard Room|WiFi&TV|180|false;Deluxe Room|WiFi&TV&Mini Bar|230|false
+HotelName :Pharaoh's Mirage 46,Country:Egypt,City:Cairo,AvailableRooms:14,PricePerRoom:130,Rating:4.4,Amenities:WiFi|Pool|Gym,Rooms:Standard Room|WiFi&TV|130|false;Deluxe Room|WiFi&TV&Mini Bar|180|false
+HotelName :Marina Oasis 47,Country:Egypt,City:Alexandria,AvailableRooms:6,PricePerRoom:90,Rating:4.3,Amenities:WiFi|Pool|Breakfast,Rooms:Standard Room|WiFi&TV|90|false
+HotelName :Valley Oasis 48,Country:Egypt,City:Luxor,AvailableRooms:9,PricePerRoom:110,Rating:4.7,Amenities:WiFi|Pool|Spa,Rooms:Standard Room|WiFi&TV|110|false;Deluxe Room|WiFi&TV&Mini Bar|160|false
+HotelName :Sunset Mirage 49,Country:Egypt,City:Aswan,AvailableRooms:11,PricePerRoom:95,Rating:4.3,Amenities:WiFi|Restaurant,Rooms:Standard Room|WiFi&TV|95|false
+HotelName :Golden Oasis 50,Country:Egypt,City:Sharm El-Sheikh,AvailableRooms:17,PricePerRoom:170,Rating:4.9,Amenities:WiFi|Pool|Gym|Spa,Rooms:Standard Room|WiFi&TV|170|false;Deluxe Room|WiFi&TV&Mini Bar|220|false
+HotelName :Royal Mirage 51,Country:Egypt,City:Cairo,AvailableRooms:15,PricePerRoom:140,Rating:4.5,Amenities:WiFi|Pool|Gym,Rooms:Standard Room|WiFi&TV|140|false;Deluxe Room|WiFi&TV&Mini Bar|190|false
+HotelName :Blue Oasis 52,Country:Egypt,City:Alexandria,AvailableRooms:7,PricePerRoom:80,Rating:4.0,Amenities:WiFi|Pool|Breakfast,Rooms:Standard Room|WiFi&TV|80|false
+HotelName :Desert Palace 53,Country:Egypt,City:Luxor,AvailableRooms:10,PricePerRoom:100,Rating:4.6,Amenities:WiFi|Pool|Spa,Rooms:Standard Room|WiFi&TV|100|false;Deluxe Room|WiFi&TV&Mini Bar|150|false
+HotelName :Nile Mirage 54,Country:Egypt,City:Aswan,AvailableRooms:12,PricePerRoom:90,Rating:4.2,Amenities:WiFi|Restaurant,Rooms:Standard Room|WiFi&TV|90|false
+HotelName :Coral Palace 55,Country:Egypt,City:Sharm El-Sheikh,AvailableRooms:18,PricePerRoom:180,Rating:4.8,Amenities:WiFi|Pool|Gym|Spa,Rooms:Standard Room|WiFi&TV|180|false;Deluxe Room|WiFi&TV&Mini Bar|230|false
+HotelName :Pharaoh's Oasis 56,Country:Egypt,City:Cairo,AvailableRooms:14,PricePerRoom:130,Rating:4.4,Amenities:WiFi|Pool|Gym,Rooms:Standard Room|WiFi&TV|130|false;Deluxe Room|WiFi&TV&Mini Bar|180|false
+HotelName :Marina Mirage 57,Country:Egypt,City:Alexandria,AvailableRooms:6,PricePerRoom:90,Rating:4.3,Amenities:WiFi|Pool|Breakfast,Rooms:Standard Room|WiFi&TV|90|false
+HotelName :Valley Mirage 58,Country:Egypt,City:Luxor,AvailableRooms:9,PricePerRoom:110,Rating:4.7,Amenities:WiFi|Pool|Spa,Rooms:Standard Room|WiFi&TV|110|false;Deluxe Room|WiFi&TV&Mini Bar|160|false
+HotelName :Sunset Palace 59,Country:Egypt,City:Aswan,AvailableRooms:11,PricePerRoom:95,Rating:4.3,Amenities:WiFi|Restaurant,Rooms:Standard Room|WiFi&TV|95|false
+HotelName :Golden Mirage 60,Country:Egypt,City:Sharm El-Sheikh,AvailableRooms:17,PricePerRoom:170,Rating:4.9,Amenities:WiFi|Pool|Gym|Spa,Rooms:Standard Room|WiFi&TV|170|false;Deluxe Room|WiFi&TV&Mini Bar|220|false
+HotelName :Royal Oasis 61,Country:Egypt,City:Cairo,AvailableRooms:15,PricePerRoom:140,Rating:4.5,Amenities:WiFi|Pool|Gym,Rooms:Standard Room|WiFi&TV|140|false;Deluxe Room|WiFi&TV&Mini Bar|190|false
+HotelName :Blue Mirage 62,Country:Egypt,City:Alexandria,AvailableRooms:7,PricePerRoom:80,Rating:4.0,Amenities:WiFi|Pool|Breakfast,Rooms:Standard Room|WiFi&V|80|false
+HotelName :Desert Mirage 63,Country:Egypt,City:Luxor,AvailableRooms:10,PricePerRoom:100,Rating:4.6,Amenities:WiFi|Pool|Spa,Rooms:Standard Room|WiFi&TV|100|false;Deluxe Room|WiFi&TV&Mini Bar|150|false
+HotelName :Nile Oasis 64,Country:Egypt,City:Aswan,AvailableRooms:12,PricePerRoom:90,Rating:4.2,Amenities:WiFi|Restaurant,Rooms:Standard Room|WiFi&TV|90|false
+HotelName :Coral Mirage 65,Country:Egypt,City:Sharm El-Sheikh,AvailableRooms:18,PricePerRoom:180,Rating:4.8,Amenities:WiFi|Pool|Gym|Spa,Rooms:Standard Room|WiFi&TV|180|false;Deluxe Room|WiFi&TV&Mini Bar|230|false
+HotelName :Pharaoh's Mirage 66,Country:Egypt,City:Cairo,AvailableRooms:14,PricePerRoom:130,Rating:4.4,Amenities:WiFi|Pool|Gym,Rooms:Standard Room|WiFi&TV|130|false;Deluxe Room|WiFi&TV&Mini Bar|180|false
+HotelName :Marina Oasis 67,Country:Egypt,City:Alexandria,AvailableRooms:6,PricePerRoom:90,Rating:4.3,Amenities:WiFi|Pool|Breakfast,Rooms:Standard Room|WiFi&TV|90|false
+HotelName :Valley Oasis 68,Country:Egypt,City:Luxor,AvailableRooms:9,PricePerRoom:110,Rating:4.7,Amenities:WiFi|Pool|Spa,Rooms:Standard Room|WiFi&TV|110|false;Deluxe Room|WiFi&TV&Mini Bar|160|false
+HotelName :Sunset Mirage 69,Country:Egypt,City:Aswan,AvailableRooms:11,PricePerRoom:95,Rating:4.3,Amenities:WiFi|Restaurant,Rooms:Standard Room|WiFi&TV|95|false
+HotelName :Golden Oasis 70,Country:Egypt,City:Sharm El-Sheikh,AvailableRooms:17,PricePerRoom:170,Rating:4.9,Amenities:WiFi|Pool|Gym|Spa,Rooms:Standard Room|WiFi&TV|170|false;Deluxe Room|WiFi&TV&Mini Bar|220|false
+HotelName :Royal Mirage 71,Country:Egypt,City:Cairo,AvailableRooms:15,PricePerRoom:140,Rating:4.5,Amenities:WiFi|Pool|Gym,Rooms:Standard Room|WiFi&TV|140|false;Deluxe Room|WiFi&TV&Mini Bar|190|false
+HotelName :Blue Oasis 72,Country:Egypt,City:Alexandria,AvailableRooms:7,PricePerRoom:80,Rating:4.0,Amenities:WiFi|Pool|Breakfast,Rooms:Standard Room|WiFi&TV|80|false
+HotelName :Desert Palace 73,Country:Egypt,City:Luxor,AvailableRooms:10,PricePerRoom:100,Rating:4.6,Amenities:WiFi|Pool|Spa,Rooms:Standard Room|WiFi&TV|100|false;Deluxe Room|WiFi&TV&Mini Bar|150|false
+HotelName :Nile Mirage 74,Country:Egypt,City:Aswan,AvailableRooms:12,PricePerRoom:90,Rating:4.2,Amenities:WiFi|Restaurant,Rooms:Standard Room|WiFi&TV|90|false
+HotelName :Coral Palace 75,Country:Egypt,City:Sharm El-Sheikh,AvailableRooms:18,PricePerRoom:180,Rating:4.8,Amenities:WiFi|Pool|Gym|Spa,Rooms:Standard Room|WiFi&TV|180|false;Deluxe Room|WiFi&TV&Mini Bar|230|false
+HotelName :Pharaoh's Oasis 76,Country:Egypt,City:Cairo,AvailableRooms:14,PricePerRoom:130,Rating:4.4,Amenities:WiFi|Pool|Gym,Rooms:Standard Room|WiFi&TV|130|false;Deluxe Room|WiFi&TV&Mini Bar|180|false
+HotelName :Marina Mirage 77,Country:Egypt,City:Alexandria,AvailableRooms:6,PricePerRoom:90,Rating:4.3,Amenities:WiFi|Pool|Breakfast,Rooms:Standard Room|WiFi&TV|90|false
+HotelName :Valley Mirage 78,Country:Egypt,City:Luxor,AvailableRooms:9,PricePerRoom:110,Rating:4.7,Amenities:WiFi|Pool|Spa,Rooms:Standard Room|WiFi&TV|110|false;Deluxe Room|WiFi&TV&Mini Bar|160|false
+HotelName :Sunset Palace 79,Country:Egypt,City:Aswan,AvailableRooms:11,PricePerRoom:95,Rating:4.3,Amenities:WiFi|Restaurant,Rooms:Standard Room|WiF&TV|95|false
+HotelName :Golden Mirage 80,Country:Egypt,City:Sharm El-Sheikh,AvailableRooms:17,PricePerRoom:170,Rating:4.9,Amenities:WiFi|Pool|Gym|Spa,Rooms:Standard Room|WiFi&TV|170|false;Deluxe Room|WiFi&TV&Mini Bar|220|false
+HotelName :Royal Oasis 81,Country:Egypt,City:Cairo,AvailableRooms:15,PricePerRoom:140,Rating:4.5,Amenities:WiFi|Pool|Gym,Rooms:Standard Room|WiFi&TV|140|false;Deluxe Room|WiFi&TV&Mini Bar|190|false
+HotelName :Blue Mirage 82,Country:Egypt,City:Alexandria,AvailableRooms:7,PricePerRoom:80,Rating:4.0,Amenities:WiFi|Pool|Breakfast,Rooms:Standard Room|WiFi&TV|80|false
+HotelName :Desert Mirage 83,Country:Egypt,City:Luxor,AvailableRooms:10,PricePerRoom:100,Rating:4.6,Amenities:WiFi|Pool|Spa,Rooms:Standard Room|WiFi&TV|100|false;Deluxe Room|WiFi&TV&Mini Bar|150|false
+HotelName :Nile Oasis 84,Country:Egypt,City:Aswan,AvailableRooms:12,PricePerRoom:90,Rating:4.2,Amenities:WiFi|Restaurant,Rooms:Standard Room|WiFi&TV|90|false
+HotelName :Coral Mirage 85,Country:Egypt,City:Sharm El-Sheikh,AvailableRooms:18,PricePerRoom:180,Rating:4.8,Amenities:WiFi|Pool|Gym|Spa,Rooms:Standard Room|WiFi&TV|180|false;Deluxe Room|WiFi&TV&Mini Bar|230|false
+HotelName :Pharaoh's Mirage 86,Country:Egypt,City:Cairo,AvailableRooms:14,PricePerRoom:130,Rating:4.4,Amenities:WiFi|Pool|Gym,Rooms:Standard Room|WiFi&TV|130|false;Deluxe Room|WiFi&TV&Mini Bar|180|false
+HotelName :Marina Oasis 87,Country:Egypt,City:Alexandria,AvailableRooms:6,PricePerRoom:90,Rating:4.3,Amenities:WiFi|Pool|Breakfast,Rooms:Standard Room|WiFi&TV|90|false
+HotelName :Valley Oasis 88,Country:Egypt,City:Luxor,AvailableRooms:9,PricePerRoom:110,Rating:4.7,Amenities:WiFi|Pool|Spa,Rooms:Standard Room|WiFi&TV|110|false;Deluxe Room|WiFi&TV&Mini Bar|160|false
+HotelName :Sunset Mirage 89,Country:Egypt,City:Aswan,AvailableRooms:11,PricePerRoom:95,Rating:4.3,Amenities:WiFi|Restaurant,Rooms:Standard Room|WiFi&TV|95|false
+HotelName :Golden Oasis 90,Country:Egypt,City:Sharm El-Sheikh,AvailableRooms:17,PricePerRoom:170,Rating:4.9,Amenities:WiFi|Pool|Gym|Spa,Rooms:Standard Room|WiFi&TV|170|false;Deluxe Room|WiFi&TV&Mini Bar|220|false
+HotelName :Royal Mirage 91,Country:Egypt,City:Cairo,AvailableRooms:15,PricePerRoom:140,Rating:4.5,Amenities:WiFi|Pool|Gym,Rooms:Standard Room|WiFi&TV|140|false;Deluxe Room|WiFi&TV&Mini Bar|190|false
+HotelName :Blue Oasis 92,Country:Egypt,City:Alexandria,AvailableRooms:7,PricePerRoom:80,Rating:4.0,Amenities:WiFi|Pool|Breakfast,Rooms:Standard Room|WiFi&TV|80|false
+HotelName :Desert Palace 93,Country:Egypt,City:Luxor,AvailableRooms:10,PricePerRoom:100,Rating:4.6,Amenities:WiFi|Pool|Spa,Rooms:Standard Room|WiFi&TV|100|false;Deluxe Room|WiFi&TV&Mini Bar|150|false
+HotelName :Nile Mirage 94,Country:Egypt,City:Aswan,AvailableRooms:12,PricePerRoom:90,Rating:4.2,Amenities:WiFi|Restaurant,Rooms:Standard Room|WiFi&TV|90|false
+HotelName :Coral Palace 95,Country:Egypt,City:Sharm El-Sheikh,AvailableRooms:18,PricePerRoom:180,Rating:4.8,Amenities:WiFi|Pool|Gym|Spa,Rooms:Standard Room|WiFi&TV|180|false;Deluxe Room|WiFi&TV&Mini Bar|230|false
+HotelName :Pharaoh's Oasis 96,Country:Egypt,City:Cairo,AvailableRooms:14,PricePerRoom:130,Rating:4.4,Amenities:WiFi|Pool|Gym,Rooms:Standard Room|WiFi&TV|130|false;Deluxe Room|WiFi&TV&Mini Bar|180|false
+HotelName :Marina Mirage 97,Country:Egypt,City:Alexandria,AvailableRooms:6,PricePerRoom:90,Rating:4.3,Amenities:WiFi|Pool|Breakfast,Rooms:Standard Room|WiFi&TV|90|false
+HotelName :Valley Mirage 98,Country:Egypt,City:Luxor,AvailableRooms:9,PricePerRoom:110,Rating:4.7,Amenities:WiFi|Pool|Spa,Rooms:Standard Room|WiFi&TV|110|false;Deluxe Room|WiFi&TV&Mini Bar|160|false
+HotelName :Sunset Palace 99,Country:Egypt,City:Aswan,AvailableRooms:11,PricePerRoom:95,Rating:4.3,Amenities:WiFi|Restaurant,Rooms:Standard Room|WiFi&TV|95|false
+HotelName :Golden Mirage 100,Country:Egypt,City:Sharm El-Sheikh,AvailableRooms:17,PricePerRoom:170,Rating:4.9,Amenities:WiFi|Pool|Gym|Spa,Rooms:Standard Room|WiFi&TV|170|false;Deluxe Room|WiFi&TV&Mini Bar|220|false
